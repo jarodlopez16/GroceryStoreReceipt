@@ -1,0 +1,18 @@
+Jarod's Kitchenware Shop Receipt
+       1115 Jaeger Drive        
+          Paradis, WA           
+     PHONE: 1(120)-007-1989     
+      11/30/2023  14:00:39      
+         ORDER #46697           
+--------------------------------
+Knives                         4
+                           40.00
+Ladels                         3
+                            9.00
+Sauce Pans                     2
+                           24.00
+Total                      73.00
+Tax                         5.11
+Amount Due                 78.11
+--------------------------------
+**** Thanks for your visit! ****
