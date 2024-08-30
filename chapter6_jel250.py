@@ -1,7 +1,4 @@
-# Jarod Lopez / November 30, 2023 / Computers & Programming I Section 4 / Chapter 6 Assignment
-# jel250@scarletmail.rutgers.edu
-print("Jarod Lopez / November 30, 2023 / Computers & Programming I Section 4 / Chapter 6 Assignment")
-print("jel250@scarletmail.rutgers.edu")
+# Jarod Lopez / Computers & Programming I / Mock Grocery Store Assignment
 
 import random
 import datetime
